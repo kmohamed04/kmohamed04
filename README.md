@@ -5,7 +5,7 @@ I'm an aspiring security engineer actively expanding my knowledge through hands-
 ---
 
 ## 🛡️ Security Operations Projects
-Projects focused on monitoring, detecting, and responding to security events in real or simulated environments.
+Projects focused on designing, implementing, detecting, and responding to security events in real or simulated environments.
 
 ---
 
