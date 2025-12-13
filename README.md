@@ -3,3 +3,9 @@
 I'm an aspiring security professional actively expanding my knowledge through hands-on projects. This portfolio documents my learning journey, showcasing hands-on experience simulating real-world attacks, analyzing threats, and implementing defense strategies across on-premise and cloud environments.
 
 ---
+
+## 🛠️ Projects
+
+---
+
+## 📜 Certifications
