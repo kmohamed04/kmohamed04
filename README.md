@@ -14,5 +14,5 @@ I'm an aspiring security professional actively expanding my knowledge through ha
  ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
 
 - **Date Issued:** December 20, 2025
-- **Areas Covered:** Cybersecurity fundamentals, access control, network security, cryptography, firewall configuration, malware analysis, threat detection, security policies, incident response fundamentals
+- **Areas Covered:** Cybersecurity fundamentals, access control, network security, cryptography, firewall configuration, malware analysis, threat detection, security policies, incident response 
 - 🔗 **[View Certification](https://www.credly.com/badges/000428ed-98e9-4f6e-9b65-6471cbe480ea)**
