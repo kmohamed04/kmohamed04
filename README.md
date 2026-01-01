@@ -9,3 +9,9 @@ I'm an aspiring security professional actively expanding my knowledge through ha
 ---
 
 ## 📜 Certifications
+ CompTIA Security+ SY0-701
+
+ ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+
+- **Date Issued:** December 20, 2025
+- 🔗 **[View Certification](https://www.credly.com/badges/000428ed-98e9-4f6e-9b65-6471cbe480ea)**
