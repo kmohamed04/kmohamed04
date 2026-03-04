@@ -1,12 +1,21 @@
-# [Kamaal's](https://www.linkedin.com/in/kamaal-mohamed-6904a9245/) Cybersecurity Portfolio 💼
-
-I'm an aspiring security professional actively expanding my knowledge through hands-on projects. This portfolio documents my learning journey, showcasing hands-on experience simulating real-world attacks, analyzing threats, and implementing defense strategies across on-premise and cloud environments.
-
+# [Kamaal's](https://www.linkedin.com/in/kamaal-mohamed-6904a9245/) Portfolio 💼
 ---
 
 ## 🛠️ Projects
 
 ---
+
+### Windows SOC Authentication Lab
+Simulated a Security Operations Center investigation using Windows event logs and Splunk SIEM.
+
+- Detected **failed logins (Event ID 4625)** indicating brute-force attempts
+- Investigated **successful logins (Event ID 4624)** after authentication attempts
+- Monitored **process creation (Event ID 4688)** for suspicious execution
+- Built Splunk searches to analyze authentication activity
+- Documented findings with SOC-style incident reports
+
+🔗 Project Repository: https://github.com/kmohamed04/windows-soc-authentication-lab
+
 
 ## 📜 Certifications
  CompTIA Security+ SY0-701
