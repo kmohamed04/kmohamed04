@@ -16,6 +16,18 @@ Simulated a Security Operations Center investigation using Windows event logs an
 
 🔗 Project Repository: https://github.com/kmohamed04/windows-soc-authentication-lab
 
+**Active Directory Administration Lab**
+
+Built a Windows Server 2019 Active Directory environment to simulate enterprise help desk and sysadmin workflows.
+
+- Deployed **Active Directory Domain Services** and promoted server to **Domain Controller**
+- Created **Organizational Units, users, and security groups** to implement role-based access control
+- Configured **Group Policy Objects** enforcing password policies, account lockout, and workstation restrictions
+- Set up **DHCP scope** and verified **DNS resolution** across the domain
+- Simulated help desk tickets including **password resets, account unlocks, and employee terminations**
+
+🔗 Project Repository: [https://github.com/kmohamed04/Active-Directory-Lab](https://github.com/kmohamed04/Active-Directory-Lab)
+
 
 ## 📜 Certifications
  CompTIA Security+ SY0-701
